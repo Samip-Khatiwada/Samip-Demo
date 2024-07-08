@@ -1,4 +1,4 @@
 # Samip-Demo
-This is my first Git Repository.
+This is my first project which is Calculator using HTML and CSS
 <br>
 Author - Samip Khatiwada
